@@ -1,5 +1,9 @@
 # Cloudformation Template
 
+## Workflow diagram
+
+![alt](https://github.com/mountain-chan/cloudformation-template/blob/main/workflow_diagram.png)
+
 ## Validate template
 ```
 sam validate --template-file template.yaml 
