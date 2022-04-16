@@ -1,4 +1,4 @@
-# Cloudformation Template Example
+# AWS Cloudformation Template Example
 
 ### This template will automatically build everything in the diagram below
 
